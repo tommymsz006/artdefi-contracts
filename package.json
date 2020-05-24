@@ -1,0 +1,21 @@
+{
+  "name": "artdefi-contracts",
+  "version": "0.0.1",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "0.0.4"
+  },
+  "description": ""
+}
